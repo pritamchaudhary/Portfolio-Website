@@ -27,8 +27,8 @@ document.querySelectorAll(".nav-items a").forEach(link => {
         case "real-estate":
           githubLink = "https://github.com/pritamchaudhary/real-estate";
           break;
-        case "ecommerce":
-          githubLink = "https://github.com/pritamchaudhary/ecommerce-website";
+        case "collegetips":
+          githubLink = "https://github.com/pritamchaudhary/collegetips-task/tree/main/collegetips-gallery";
           break;
         case "weather":
           githubLink = "https://github.com/pritamchaudhary/Weather-App";
