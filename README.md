@@ -34,12 +34,6 @@ Portfolio-Website/
 - **JavaScript** – DOM manipulation and interactive components.
 - **Netlify** – Deployed and hosted the live version.
 
-## 📷 Screenshots
-
-> _You can add screenshots of your project here for visual reference._
-> Example:
-> ![Home Page Screenshot](./assets/screenshot-home.png)
-
 ## 📌 How to Use Locally
 
 1. Clone the repository:
@@ -51,6 +45,7 @@ Portfolio-Website/
 
 3. Open index.html in your preferred browser or live server.
 
+## 📷 Screenshots
 ![Screenshot 2025-07-09 145601](https://github.com/user-attachments/assets/18eed4eb-739f-4957-a3b9-909a97309a9d)
 ![Screenshot 2025-07-09 145623](https://github.com/user-attachments/assets/0f493385-00ff-434b-91df-41a62df40fc6)
 ![Screenshot 2025-07-09 145641](https://github.com/user-attachments/assets/3895a825-07e8-4269-aa44-357495b95cfb)
